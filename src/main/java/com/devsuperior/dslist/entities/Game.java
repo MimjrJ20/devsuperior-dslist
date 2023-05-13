@@ -124,7 +124,6 @@ public class Game {
 
 
     //COMPARE OS OBJETOS
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -133,4 +132,8 @@ public class Game {
         return Objects.equals(id, gameOther.id);
     }
 
+    @Override
+    public int hashCode() {
+        return Objects.hash(id);
+    }
 }
