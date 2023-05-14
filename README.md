@@ -23,4 +23,5 @@ O Projeto trata-se de uma lista de Jogos no qual podem ser reordenadas.
 ## Autor
 
 Michele Rosa
+
 https://www.linkedin.com/in/michele-rosa-mjr/
