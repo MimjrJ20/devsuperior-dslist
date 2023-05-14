@@ -5,12 +5,22 @@ Projeto desenvolvido durante aulas de Java e SpringBoot do professor Nélio no m
 
 O Projeto trata-se de uma lista de Jogos no qual podem ser reordenadas.
 
+
 ## Layout web
 
+
 ## Tecnologias utilizadas
+
 
 #### BackEnd
 
 #### FrontEnd
 
+
 ## Como Executar o Projeto
+
+
+## Autor
+
+Michele Rosa
+https://www.linkedin.com/in/michele-rosa-mjr/
